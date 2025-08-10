@@ -25,7 +25,8 @@
 
 ### Graphics  
 <div align="center">  
-  
+<div align="center">  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstarcitizen.tools%2FVulkan&psig=AOvVaw3qa_NVZJrI5oRrpWPEfH2I&ust=1754943599701000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCws8CIgY8DFQAAAAAdAAAAABAV)" alt="C++" height="50" /></a>    
 </div>
 
 </td><td valign="top" width="33%">
