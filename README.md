@@ -23,11 +23,15 @@
 
 
 
-### Graphics  
+### Computing  
 <div align="center">  
-<div align="center">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vulkan/vulkan-original.svg" alt="Vulkan" width="26"/> *
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vulkan/vulkan-original.svg" alt="Vulkan" width="75" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="OpenGL" width="75" style="margin: 0 10px;" />
+
+  <img src="https://d29g4g2dyqv443.cloudfront.net/sites/default/files/pictures/2019/NVIDIACuda_Logo.jpg" alt="CUDA" width="75" style="margin: 0 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenCL_logo.svg" alt="OpenCL" width="75" style="margin:  20px;" />
 </div>
+
 
 </td><td valign="top" width="33%">
 
@@ -35,17 +39,31 @@
 
 ### Robotics  
 <div align="center">  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*MBm2oAMqspVu7BCSei_4Hg.png" alt="GCP" height="40" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://docs.isaacsim.omniverse.nvidia.com/latest/index.html" target="_blank"><img style="margin: 10px" src="https://catalog.ngc.nvidia.com/_next/image?url=https%3A%2F%2Fwww.nvidia.com%2Fcontent%2Fdam%2Fen-zz%2FSolutions%2Fgtcf20%2Fomniverse%2Frefresh-open-beta%2Fnvidia-omniverse-isaac-sim-icon-128.png&w=640&q=90" alt="isaac sim" height="50" /></a>  
+<a href="https://developer.nvidia.com/isaac/ros" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/91228115?s=200&v=4" alt="nvidia isaac ros" height="50" /></a>  
+</div>
 </div>
 
 </td></tr></table>  
 
 <br/>  
+
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexermolovich&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
 
 
 ## Connect with me  
@@ -60,43 +78,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexermolovich&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center"><a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
