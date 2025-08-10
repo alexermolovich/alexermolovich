@@ -1,9 +1,9 @@
-- ### <div align="center">
-I’m currently working as an undergraduate robotics researcher at MIDL in the **South Dakota School of Mines and Technology**, focusing on combining chemistry with **laboratory automation. 
+### <div align="center">
+- I’m currently working as an undergraduate robotics researcher at MIDL in the **South Dakota School of Mines and Technology**, focusing on combining chemistry with **laboratory automation. 
 
-I’m passionate about **robotics**, **low-level programming**, **computer graphics**, and **GPGPU computing**.  
+ - I’m passionate about **robotics**, **low-level programming**, **computer graphics**, and **GPGPU computing**.  
 
-I’m looking to collaborate on **GPGPU**, **computer graphics**,  
+ - I’m looking to collaborate on **GPGPU**, **computer graphics**,  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vulkan/vulkan-original.svg" alt="Vulkan" width="26"/> **Vulkan** and  
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg" alt="CUDA" width="26"/> **CUDA** projects.  
 </div>  
