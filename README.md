@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 - ### <div align="center">
 I’m currently working as an undergraduate robotics researcher at MIDL in the **South Dakota School of Mines and Technology**, focusing on combining chemistry with **laboratory automation. 
 
