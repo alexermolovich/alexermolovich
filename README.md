@@ -1,19 +1,7 @@
 ### <div align="center">
 - I’m currently working as an undergraduate robotics researcher at MIDL in the **South Dakota School of Mines and Technology**, focusing on combining chemistry with **laboratory automation. 
 
- - I’m passionate about **robotics**, **low-level programming**, **computer graphics**, and **GPGPU computing**.  
-
- - I’m looking to collaborate on **GPGPU**, **computer graphics**,  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vulkan/vulkan-original.svg" alt="Vulkan" width="26"/> **Vulkan** and  
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg" alt="CUDA" width="26"/> **CUDA** projects.  
-</div>  
-  
-
 - I’m currently working on Cross-GPU Rendering in OpenCL, a project focused on leveraging multiple GPUs for parallel rendering.  
-  
-
-- I’m currently learning TensorFlow and <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="20" height="20"><path fill="#EE4C2C" d="M100.1 38.3l-9.2 9.2c15.1 15.1 15.1 39.4 0 54.3-15.1 15.1-39.4 15.1-54.3 0-15.1-15.1-15.1-39.4 0-54.3l24-24 3.4-3.4V2L27.8 38.2C7.7 58.3 7.7 90.8 27.8 111s52.6 20.1 72.4 0c20.1-20.2 20.1-52.5-.1-72.7z"/><circle fill="#EE4C2C" transform="rotate(-88.939 82.069 29.398) scale(.99997)" cx="82" cy="29.4" r="6.7"/></svg>
-  
   
 
 <br/>  
