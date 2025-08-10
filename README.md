@@ -6,7 +6,7 @@ I’m currently working as an undergraduate robotics researcher at [MIDL](https:
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="34%">
 
 
 
