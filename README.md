@@ -58,7 +58,7 @@ I’m currently working as an undergraduate robotics researcher at [MIDL](https:
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexermolovich&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexyermolovych&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
