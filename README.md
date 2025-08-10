@@ -1,7 +1,5 @@
 ### <div align="center">
 I’m currently working as an undergraduate robotics researcher at MIDL in the **South Dakota School of Mines and Technology**, focusing on combining chemistry with laboratory automation. 
-I’m currently working on Cross-GPU Rendering in OpenCL, a project focused on leveraging multiple GPUs for parallel rendering.  
-  
 
 <br/>  
 
