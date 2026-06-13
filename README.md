@@ -33,6 +33,9 @@
         <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
         <img src="https://img.shields.io/badge/MoveIt_2-5B8DEF?style=for-the-badge&logo=ros&logoColor=white" alt="MoveIt 2" />
         <img src="https://img.shields.io/badge/Franka_FR3-111827?style=for-the-badge" alt="Franka FR3" />
+        <img src="https://img.shields.io/badge/Motion_Planning-2563EB?style=for-the-badge" alt="Motion Planning" />
+        <img src="https://img.shields.io/badge/Robot_Control-0F766E?style=for-the-badge" alt="Robot Control" />
+        <img src="https://img.shields.io/badge/Kinematics-7C3AED?style=for-the-badge" alt="Kinematics" />
         <img src="https://img.shields.io/badge/ros2_control-384D54?style=for-the-badge&logo=ros&logoColor=white" alt="ros2_control" />
         <img src="https://img.shields.io/badge/TF2-6C63FF?style=for-the-badge&logo=ros&logoColor=white" alt="TF2" />
         <img src="https://img.shields.io/badge/RViz-4051B5?style=for-the-badge&logo=ros&logoColor=white" alt="RViz" />
@@ -42,11 +45,12 @@
       <h3 align="center">Perception &amp; Vision</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-        <img src="https://img.shields.io/badge/Point_Clouds-0F766E?style=for-the-badge" alt="Point Clouds" />
+        <img src="https://img.shields.io/badge/Computer_Vision-2563EB?style=for-the-badge" alt="Computer Vision" />
+        <img src="https://img.shields.io/badge/3D_Perception-0F766E?style=for-the-badge" alt="3D Perception" />
+        <img src="https://img.shields.io/badge/Point_Cloud_Processing-0F766E?style=for-the-badge" alt="Point Cloud Processing" />
         <img src="https://img.shields.io/badge/Depth_Cameras-2563EB?style=for-the-badge" alt="Depth Cameras" />
-        <img src="https://img.shields.io/badge/Astra_Bridge-0284C7?style=for-the-badge" alt="Astra Bridge" />
+        <img src="https://img.shields.io/badge/Camera_Calibration-0284C7?style=for-the-badge" alt="Camera Calibration" />
         <img src="https://img.shields.io/badge/Hand--Eye_Calibration-7C3AED?style=for-the-badge" alt="Hand-Eye Calibration" />
-        <img src="https://img.shields.io/badge/Custom_ROS_Msgs-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="Custom ROS Messages" />
       </p>
     </td>
   </tr>
@@ -58,7 +62,8 @@
         <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
         <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
         <img src="https://img.shields.io/badge/OpenCL-222222?style=for-the-badge&logo=opencl&logoColor=white" alt="OpenCL" />
-        <img src="https://img.shields.io/badge/CUDA_Point_Clouds-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA Point Clouds" />
+        <img src="https://img.shields.io/badge/Parallel_Computing-4B5563?style=for-the-badge" alt="Parallel Computing" />
+        <img src="https://img.shields.io/badge/GPU_Programming-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU Programming" />
         <img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Isaac Sim" />
         <img src="https://img.shields.io/badge/Isaac_ROS-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Isaac ROS" />
       </p>
