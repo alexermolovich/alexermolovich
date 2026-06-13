@@ -28,25 +28,61 @@
       </p>
     </td>
     <td width="33%" valign="top">
+      <h3 align="center">Robotics &amp; Motion</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
+        <img src="https://img.shields.io/badge/MoveIt_2-5B8DEF?style=for-the-badge&logo=ros&logoColor=white" alt="MoveIt 2" />
+        <img src="https://img.shields.io/badge/Franka_FR3-111827?style=for-the-badge" alt="Franka FR3" />
+        <img src="https://img.shields.io/badge/ros2_control-384D54?style=for-the-badge&logo=ros&logoColor=white" alt="ros2_control" />
+        <img src="https://img.shields.io/badge/TF2-6C63FF?style=for-the-badge&logo=ros&logoColor=white" alt="TF2" />
+        <img src="https://img.shields.io/badge/RViz-4051B5?style=for-the-badge&logo=ros&logoColor=white" alt="RViz" />
+      </p>
+    </td>
+    <td width="34%" valign="top">
+      <h3 align="center">Perception &amp; Vision</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/Point_Clouds-0F766E?style=for-the-badge" alt="Point Clouds" />
+        <img src="https://img.shields.io/badge/Depth_Cameras-2563EB?style=for-the-badge" alt="Depth Cameras" />
+        <img src="https://img.shields.io/badge/Astra_Bridge-0284C7?style=for-the-badge" alt="Astra Bridge" />
+        <img src="https://img.shields.io/badge/Hand--Eye_Calibration-7C3AED?style=for-the-badge" alt="Hand-Eye Calibration" />
+        <img src="https://img.shields.io/badge/Custom_ROS_Msgs-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="Custom ROS Messages" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3 align="center">GPU &amp; Graphics</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan" />
         <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
         <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
         <img src="https://img.shields.io/badge/OpenCL-222222?style=for-the-badge&logo=opencl&logoColor=white" alt="OpenCL" />
+        <img src="https://img.shields.io/badge/CUDA_Point_Clouds-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA Point Clouds" />
+        <img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Isaac Sim" />
+        <img src="https://img.shields.io/badge/Isaac_ROS-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Isaac ROS" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Build &amp; QA</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+        <img src="https://img.shields.io/badge/colcon-4051B5?style=for-the-badge&logo=ros&logoColor=white" alt="colcon" />
+        <img src="https://img.shields.io/badge/ament-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ament" />
+        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+        <img src="https://img.shields.io/badge/flake8-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="flake8" />
+        <img src="https://img.shields.io/badge/clangd-555555?style=for-the-badge&logo=llvm&logoColor=white" alt="clangd" />
       </p>
     </td>
     <td width="34%" valign="top">
-      <h3 align="center">Robotics &amp; Tools</h3>
+      <h3 align="center">Systems &amp; Infra</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=222222" alt="Linux" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Isaac Sim" />
-        <img src="https://img.shields.io/badge/Isaac_ROS-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Isaac ROS" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
       </p>
     </td>
   </tr>
