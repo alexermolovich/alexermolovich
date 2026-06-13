@@ -1,57 +1,52 @@
-## My Skill Set
+<div align="center">
+  <h1>Oleksandr Yermolovych</h1>
+  <p><strong>Robotics | GPU Computing | Systems Software</strong></p>
+
+  <a href="https://github.com/alexyermolovich" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://dev.to/oleksandr_yermolovych_f94" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" />
+  </a>
+  <a href="https://linkedin.com/in/oleksandryermolovych" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<br />
+
+## Tech Stack
 
 <table>
   <tr>
-    <td valign="top" width="34%">
+    <td width="33%" valign="top">
       <h3 align="center">Languages</h3>
       <p align="center">
-        <a href="https://www.cplusplus.com/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-        </a>
-        <a href="https://www.rust-lang.org/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />
-        </a>
-        <a href="https://www.python.org/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-        </a>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       </p>
     </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Computing</h3>
+    <td width="33%" valign="top">
+      <h3 align="center">GPU &amp; Graphics</h3>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vulkan/vulkan-original.svg" alt="Vulkan" height="50" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="OpenGL" height="50" />
-        <img src="https://d29g4g2dyqv443.cloudfront.net/sites/default/files/pictures/2019/NVIDIACuda_Logo.jpg" alt="CUDA" height="50" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenCL_logo.svg" alt="OpenCL" height="50" />
+        <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan" />
+        <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
+        <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+        <img src="https://img.shields.io/badge/OpenCL-222222?style=for-the-badge&logo=opencl&logoColor=white" alt="OpenCL" />
       </p>
     </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Robotics</h3>
+    <td width="34%" valign="top">
+      <h3 align="center">Robotics &amp; Tools</h3>
       <p align="center">
-        <a href="https://cloud.google.com/" target="_blank">
-          <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*MBm2oAMqspVu7BCSei_4Hg.png" alt="GCP" height="50" />
-        </a>
-        <a href="https://kubernetes.io/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
-        </a>
-        <a href="https://www.linux.org/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-        </a>
-        <a href="https://github.com/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-        </a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
-        </a>
-        <a href="https://www.docker.com/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-        </a>
-        <a href="https://docs.isaacsim.omniverse.nvidia.com/latest/index.html" target="_blank">
-          <img src="https://catalog.ngc.nvidia.com/_next/image?url=https%3A%2F%2Fwww.nvidia.com%2Fcontent%2Fdam%2Fen-zz%2FSolutions%2Fgtcf20%2Fomniverse%2Frefresh-open-beta%2Fnvidia-omniverse-isaac-sim-icon-128.png&w=640&q=90" alt="isaac sim" height="50" />
-        </a>
-        <a href="https://developer.nvidia.com/isaac/ros" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/91228115?s=200&v=4" alt="nvidia isaac ros" height="50" />
-        </a>
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=222222" alt="Linux" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Isaac Sim" />
+        <img src="https://img.shields.io/badge/Isaac_ROS-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Isaac ROS" />
       </p>
     </td>
   </tr>
@@ -59,30 +54,24 @@
 
 <br />
 
-## Github Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexermolovich&show_icons=true&count_private=true&hide_border=true" alt="Github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexermolovich&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats" />
 </div>
 
 <br />
 
-## Connect with me
+## Connect
 
 <div align="center">
   <a href="https://github.com/alexyermolovich" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://dev.to/oleksandr_yermolovych_f94" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" />
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="dev.to" />
   </a>
   <a href="https://linkedin.com/in/oleksandryermolovych" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-----
-
-<div align="center">
-  <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
 </div>
